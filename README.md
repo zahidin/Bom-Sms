@@ -4,6 +4,8 @@ Spamming sms to phone number
 Use python3
 ```
 $ git clone https://github.com/zahidin/Bom-Sms.git
+$ cd Bom-Sms
+$ python2 bom_smsv2.py
 $ python3 bom_sms.py
 ```
 # Screenshot
